@@ -9,9 +9,12 @@ Docker-Compose
 
 Docker-hub register
 ​
+
 Setup
 ​
+
 악단 컨테이너(프로그램: 보컬, 기타, 베이스, 드럼)
+
 
 무대 컨테이너(파란불빛, 빨간불빛, 노란불빛 ...)
 ​
