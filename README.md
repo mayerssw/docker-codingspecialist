@@ -7,7 +7,10 @@ Docker
 
 Docker-Compose
 
-Docker-hub register
+Docker-hub
+
+
+register
 ​
 
 Setup
